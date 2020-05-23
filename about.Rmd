@@ -2,4 +2,10 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+- __Name:__ Jin Chen
+- __Ocupation:__ "Student"
+- __Hobbies:__ Learning R Programming and data visualization. 
+
+Here is a super cool photo of me doing one of my favorite things, smiling 
+
+![](images/dragon-24-jin-chen.png)
